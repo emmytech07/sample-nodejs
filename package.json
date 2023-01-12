@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmytech07/sample-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmytech07/sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/emmytech07/sample-nodejs#readme",
+  "description": ""
 }
